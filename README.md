@@ -1,6 +1,6 @@
 # E-Field-of-Uniform-Disk
 
-We're interested in the electric field of a charged disk lying in the x-y plane. The disk has a radius R and centered at the origin. To calculate the electric field along the z-axis we first construct the contribution to field at a position z by a disk element dQ at a radius r < R:
+We're interested in the electric field of a charged disk lying in the x-y plane. The disk has a radius R and centered at the origin. To calculate the electric field along the z-axis we first construct the contribution to the field at a position z by a disk element dQ at a radius r < R:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;dE_z&space;=&space;\frac{dQ}{4&space;\pi&space;\epsilon_0&space;d^2}&space;\sin\alpha" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;dE_z&space;=&space;\frac{dQ}{4&space;\pi&space;\epsilon_0&space;d^2}&space;\sin\alpha" title="dE_z = \frac{dQ}{4 \pi \epsilon_0 d^2} \sin\alpha" /></a>
 
